@@ -53,16 +53,3 @@ This project includes hands-on code examples for all important Java 11 enhanceme
 - **VS Code / IntelliJ / Eclipse** (optional, add yours)
 - **JUnit** (if tests exist)
 
----
-
-## 📂 Project Structure
-
-src
-└── main
-    └── java
-        └── features
-            ├── strings        # Java 11 String features
-            ├── httpclient     # HttpClient demos
-            ├── files          # File API enhancements
-            ├── collections    # Optional & collectors
-            └── lambdas        # var in lambda parameters
