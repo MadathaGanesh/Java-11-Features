@@ -11,7 +11,7 @@ This project includes hands-on code examples for all important Java 11 enhanceme
 
 ### ✔ Core Language Enhancements
 - Local variable syntax for lambda parameters (`var` in lambda)
-- Improved type inference
+- Improved type inference (var Allowed in Lambda Parameters)
 - New string utility methods  
   - `isBlank()`  
   - `lines()`  
